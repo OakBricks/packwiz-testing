@@ -1,0 +1,12 @@
+name = "packwizz"
+author = "oakbricks"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7f217f548d5bc55bdbac2b318cc966a8485c4a2835de4ba27c82fe49c2ad6d36"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.17.1"

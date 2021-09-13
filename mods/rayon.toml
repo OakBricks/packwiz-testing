@@ -1,0 +1,14 @@
+name = "Rayon"
+filename = "rayon-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3440/432/rayon-1.3.0.jar"
+hash-format = "murmur2"
+hash = "4021507102"
+
+[update]
+[update.curseforge]
+file-id = 3440432
+project-id = 435768
+release-channel = "beta"

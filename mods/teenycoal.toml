@@ -1,0 +1,13 @@
+name = "Teeny Coal"
+filename = "teenycoal-1.0.2-1.17.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com//data/8dyofj7U/versions/1.0.2-1.17.x/teenycoal-1.0.2-1.17.x.jar"
+hash-format = "sha512"
+hash = "fc0b67030f98017633f3a5d8b45e1b8a33dcd21c8ddfa1d97b3e9ba110b95342a6d785c28f70c3620cee827347ea0b4d7d6b6d59dc7c8754b178dee473bfb964"
+
+[update]
+[update.modrinth]
+mod-id = "8dyofj7U"
+version = "wg7MqquG"

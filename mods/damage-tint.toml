@@ -1,0 +1,14 @@
+name = "Damage Tint"
+filename = "damage-tint-fabric-1.17.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3381/77/damage-tint-fabric-1.17.1-1.1.0.jar"
+hash-format = "murmur2"
+hash = "1641521169"
+
+[update]
+[update.curseforge]
+file-id = 3381077
+project-id = 434182
+release-channel = "beta"

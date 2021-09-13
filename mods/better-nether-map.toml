@@ -1,0 +1,13 @@
+name = "Better Nether Map"
+filename = "nethermap-1.5.0-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com//data/fdtm99de/versions/1.5.0-1.17.1/nethermap-1.5.0-1.17.1.jar"
+hash-format = "sha512"
+hash = "904f78248f138bf85ef7ac8f9eb8e819c58a065f54087b9ebba293d2259f3f2b54968b0771c5592b0d0abb7372f9fa5f98aa18bacf5ef0250af8d4836bee4408"
+
+[update]
+[update.modrinth]
+mod-id = "fdtm99de"
+version = "ppVmyBwi"

@@ -1,0 +1,13 @@
+name = "Day Dream"
+filename = "day-dream-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com//data/FKi0XGBk/versions/1.0.3/day-dream-1.0.3.jar"
+hash-format = "sha512"
+hash = "f5dc56563194eeb50e7eceece52abb053b79423daac70cf87ede01b9bd836e7f8eda3a74f8e78b83fdb2af307badd8dae9a86c954b572522ce7ac53d785a25c0"
+
+[update]
+[update.modrinth]
+mod-id = "FKi0XGBk"
+version = "qs1fpkaE"
