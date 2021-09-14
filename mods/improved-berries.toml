@@ -1,0 +1,14 @@
+name = "Improved Berries"
+filename = "improved_berries-fabric-1.17.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3446/410/improved_berries-fabric-1.17.1-1.0.0.jar"
+hash-format = "murmur2"
+hash = "374418138"
+
+[update]
+[update.curseforge]
+file-id = 3446410
+project-id = 521877
+release-channel = "beta"

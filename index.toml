@@ -146,8 +146,28 @@ hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
 metafile = true
 
 [[files]]
+file = "mods/improved-berries.toml"
+hash = "d23f90a36ea3a1f3518dd7f437330cc0178372d1a8c32d7fcaefd977620aaa7d"
+metafile = true
+
+[[files]]
+file = "mods/improved-hoes.toml"
+hash = "54d1ee68bdc78d20c7e46d6256aeee6e905ffd70695b64c482f1390068212735"
+metafile = true
+
+[[files]]
+file = "mods/improved-stations.toml"
+hash = "2d0f55cd24c79f04874b05a185aade92ef2611fea03b04785b454bbf79087cd4"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.toml"
+hash = "c10a4fd6a52a3718ce0e6f88a9febd8f331eee792bf3a7d0836e1cb14b857c29"
 metafile = true
 
 [[files]]
@@ -173,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/mo-structures.toml"
 hash = "76ce4cf02133a8247d97786c7e2168d34d9880acee1816707c356b833047f680"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.toml"
+hash = "5945c06e5bfcaef1ebb5f78ed9505576b97bdf7fc29a998521c2387a4ea3bb1a"
 metafile = true
 
 [[files]]
@@ -221,6 +246,16 @@ hash = "523287ccdaca7718dbbc48afb4068484c1bb84d7f101fb0de94254363cd62b99"
 metafile = true
 
 [[files]]
+file = "mods/simply-improved-terrain-fabric.toml"
+hash = "6cd46d513d6f99d0258236dd66962cefe775b55d7a60310bb057a0c7b583227f"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "d100d9d3b8e8a2f157e34910152ca3ae5cffccbd544a9deae6301dd44b640266"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "994eda116254db865384ca9ebb0c4e9f459edbac67483b2f1582955618a5c6dd"
 metafile = true
@@ -263,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/vanillaenhanced.toml"
 hash = "ae758cb163fb8ca9ac59fea842477e43126baa411bccd0fab9de142124068811"
+metafile = true
+
+[[files]]
+file = "mods/waveycapes.toml"
+hash = "23d4d520988adb922c39c30d5ecae2292b8ec095220f36a5a9d06e3014e76196"
 metafile = true
 
 [[files]]
