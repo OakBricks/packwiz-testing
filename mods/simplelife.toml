@@ -1,0 +1,13 @@
+name = "SimpleLife"
+filename = "simplelife-0.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uRC9BVOz/versions/0.0.12/simplelife-0.0.12.jar"
+hash-format = "sha512"
+hash = "27bfb80bc2c5ceec573128550b893d7919e2ad524a1f671b589447b282088e01951dab136ea9648d35b99c552401bbb5fe78019ed456c06093b6559a92dcafae"
+
+[update]
+[update.modrinth]
+mod-id = "uRC9BVOz"
+version = "ZJ405zhp"

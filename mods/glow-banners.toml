@@ -1,0 +1,14 @@
+name = "Glow Banners"
+filename = "glowingbanners-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3421/560/glowingbanners-1.0.2.jar"
+hash-format = "murmur2"
+hash = "3099831667"
+
+[update]
+[update.curseforge]
+file-id = 3421560
+project-id = 508940
+release-channel = "beta"

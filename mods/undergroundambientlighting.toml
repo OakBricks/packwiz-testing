@@ -1,0 +1,14 @@
+name = "Underground Ambient Lighting"
+filename = "undergroundambientlighting-2.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3394/486/undergroundambientlighting-2.0.0-fabric.jar"
+hash-format = "murmur2"
+hash = "1067483050"
+
+[update]
+[update.curseforge]
+file-id = 3394486
+project-id = 447882
+release-channel = "beta"

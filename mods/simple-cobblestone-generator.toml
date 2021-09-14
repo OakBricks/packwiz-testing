@@ -1,0 +1,13 @@
+name = "Simple Cobblestone Generator"
+filename = "simple-cobblestone-generator-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q01k2hiP/versions/1.1.4/simple-cobblestone-generator-1.1.4.jar"
+hash-format = "sha512"
+hash = "09104322ae2f87122b38261ca027508c6e8d78fdeb57578af1781fbbdc75b1962d50a1454e75a1b98d13773b5227a236f2abb36300ccc57acec2bd32225de718"
+
+[update]
+[update.modrinth]
+mod-id = "Q01k2hiP"
+version = "30fEuaZC"
