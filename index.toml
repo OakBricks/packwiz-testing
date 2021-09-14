@@ -31,6 +31,16 @@ hash = "2058289facd6c950044bbaa5696b93b33b1087955bc4b187988613bb20e68812"
 metafile = true
 
 [[files]]
+file = "mods/attribute.toml"
+hash = "72978a84688f3cfe0341117ec50d088fc983ceec9293387a5b551e31af346a1b"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-bucket-fix.toml"
+hash = "bf31a3a1106408517837dc119378208dd5fdbd6c301ce91b3a29f579f0d31034"
+metafile = true
+
+[[files]]
 file = "mods/bclib.toml"
 hash = "e3ac15b1511fcd2c9feccaf5f856f562932cec7b37cbb644efbea4f20f3d9344"
 metafile = true
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/betternether.toml"
 hash = "1cc3f8775fe722f674c09d2a3dea91a6792e11c30315141bee5021d0d75fb4ec"
+metafile = true
+
+[[files]]
+file = "mods/bow-infinity-fix.toml"
+hash = "713b0fa6d1a7ec1f8899bc8888fe2fba167da7d4fc72ac9c3ee58b0ce6e7fbbf"
 metafile = true
 
 [[files]]
@@ -106,6 +121,11 @@ hash = "13c095a7121d969045082111dca0406f8577584e9e31edb3b343af224fe36e16"
 metafile = true
 
 [[files]]
+file = "mods/dimension-fix-some-forge-patches-ported.toml"
+hash = "5566ded4558621c4affd0d93e70fba94fef6e9ce4018f577f5082addb25826e4"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "3f631c9e944a855a409158820f38aba9f587fb829a45351958b18de45118b2dc"
 metafile = true
@@ -128,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "9dddeb714e7d413746bafd35c5b58ebec4c30d8934ff3763dd4c00e5ff359fa6"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.toml"
+hash = "75bffa842a28b1a8341d283381f65db5069b906006a31cf21ccee5a86e50a19f"
 metafile = true
 
 [[files]]
@@ -171,6 +196,11 @@ hash = "c10a4fd6a52a3718ce0e6f88a9febd8f331eee792bf3a7d0836e1cb14b857c29"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.toml"
+hash = "1fc81c2fb496ad395c8d81c55b292f2131548d6654fc1201f79d61e1564052cd"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "374c4eb4d5733928e6a3aed28625bb28f6e2bcb1f17a2077577ab555e2b37c94"
 metafile = true
@@ -178,6 +208,16 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lib.toml"
+hash = "e9439db84ce082adc9c7f3db341a5335e010ca2ff061b4b17648f375d48f7ee5"
+metafile = true
+
+[[files]]
+file = "mods/light-fix-mc-228802.toml"
+hash = "05dc7d1a92d6713ac5b7eb31ebbfcd289e7a7c85f9111fa4d82ed06b1559bc06"
 metafile = true
 
 [[files]]
@@ -203,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "9e6184ce1e6884c3c422e82cdd269dff7e89d0c7093d5b61c96d7b4e2b0e2be5"
+metafile = true
+
+[[files]]
+file = "mods/nbt-crafting.toml"
+hash = "71af9ca8e4baea2b1ef0bd767763862eefbd53a450390131c76cdb2692d201f2"
 metafile = true
 
 [[files]]
@@ -243,6 +288,21 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "523287ccdaca7718dbbc48afb4068484c1bb84d7f101fb0de94254363cd62b99"
+metafile = true
+
+[[files]]
+file = "mods/sef-ores.toml"
+hash = "a04c92b8580112b65d1608fea7346d499aadc7a73e708d027b323ce5f38e96c8"
+metafile = true
+
+[[files]]
+file = "mods/shadews-foxes.toml"
+hash = "16057063334b76f2c23d115a1b2de8bac848a2740f8a3bd80a8abe3b0528fa56"
+metafile = true
+
+[[files]]
+file = "mods/shift-scroll-fix.toml"
+hash = "0c568e4215b2732b8b15bb447c9b260385bbfb0a6b8718e69e890b0a305cf003"
 metafile = true
 
 [[files]]
@@ -293,6 +353,16 @@ metafile = true
 [[files]]
 file = "mods/twerk-crop-dusting-mod-fabric.toml"
 hash = "0419c8c58793ae8fc97b0404ca8c5542ff5abf5130f63fa88a15322206956cd8"
+metafile = true
+
+[[files]]
+file = "mods/ugly-scoreboard-fix.toml"
+hash = "b07993d58daf1e7786eecfbb3ee9530dc6299c1d3df34f7e44115e8248cc6917"
+metafile = true
+
+[[files]]
+file = "mods/universal-ores-fabric.toml"
+hash = "6b87f4e685b7dab09b40b119194ee71f1439b69edf29248f039cf016461dd4b3"
 metafile = true
 
 [[files]]
