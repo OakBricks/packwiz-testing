@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/lib.toml"
-hash = "e9439db84ce082adc9c7f3db341a5335e010ca2ff061b4b17648f375d48f7ee5"
+hash = "282da11d9aafdfb7d002650a0d4e2b4dfcc39f43a9815d323fe3f021003d2b35"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/neutrino.toml"
-hash = "d17a3eacd0d30b01775c7b16e48816512a569b6cf667cb20448e741b105b6265"
+hash = "b83518626b31954695a57c6521b5f9ac1b927c62313fb4b1763ed36b07c4651e"
 metafile = true
 
 [[files]]

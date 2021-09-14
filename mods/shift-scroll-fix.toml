@@ -1,0 +1,14 @@
+name = "Shift-Scroll Fix for macOS [Fabric]"
+filename = "shift-scroll-fix-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3343/722/shift-scroll-fix-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3913092870"
+
+[update]
+[update.curseforge]
+file-id = 3343722
+project-id = 437526
+release-channel = "beta"

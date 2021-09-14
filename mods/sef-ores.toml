@@ -1,0 +1,14 @@
+name = "SEF Ores"
+filename = "sef_ores-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/707/sef_ores-1.1.0.jar"
+hash-format = "murmur2"
+hash = "3389275158"
+
+[update]
+[update.curseforge]
+file-id = 3405707
+project-id = 508649
+release-channel = "beta"

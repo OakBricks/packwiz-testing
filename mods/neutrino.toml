@@ -1,13 +1,13 @@
 name = "Neutrino"
-filename = "Neutrino-0.1.9.jar"
+filename = "Neutrino-0.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com//data/ywoUSn0F/versions/0.1.9/Neutrino-0.1.9.jar"
+url = "https://cdn.modrinth.com//data/ywoUSn0F/versions/0.2.0/Neutrino-0.2.0.jar"
 hash-format = "sha512"
-hash = "d6d9298eb6d4924008fbebb1b6598c12d731beee40280f9ff6933f7814a6d87a41211f2e691475aa1c039880917df3ca3c3f13a219de42dc013600096752f405"
+hash = "d6827fa333223c33b42a05a4a730985660c1bfd38cb5a6f12afec64810623497d248a27bdc48111fdbcc7d84975da109dd541e8efd8a6be7fc2ce3adf96fdcaf"
 
 [update]
 [update.modrinth]
 mod-id = "ywoUSn0F"
-version = "O4379Htt"
+version = "TCm3Id4o"
