@@ -51,11 +51,6 @@ hash = "1cc3f8775fe722f674c09d2a3dea91a6792e11c30315141bee5021d0d75fb4ec"
 metafile = true
 
 [[files]]
-file = "mods/carpet.toml"
-hash = "9d616e162a63fac2435781fc8db65ac12564ee841d78eebccfc8aa0828311154"
-metafile = true
-
-[[files]]
 file = "mods/carrier.toml"
 hash = "3cf707c48658551283b6534df565f5bb45b3cb32e486550a16282b9061d179c0"
 metafile = true
