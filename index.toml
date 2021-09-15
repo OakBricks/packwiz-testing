@@ -281,6 +281,11 @@ hash = "040e155da98a7cac09885e967f4ddbaec396b4286417862fe51c94455ea1a834"
 metafile = true
 
 [[files]]
+file = "mods/nauticality.toml"
+hash = "a3dbb9ce0b35e9f253e074c2bf5d709dc2f4f35dd7755d07a71acc42b1167d4d"
+metafile = true
+
+[[files]]
 file = "mods/nbt-crafting.toml"
 hash = "71af9ca8e4baea2b1ef0bd767763862eefbd53a450390131c76cdb2692d201f2"
 metafile = true
