@@ -91,6 +91,11 @@ hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
 metafile = true
 
 [[files]]
+file = "mods/completeconfig.toml"
+hash = "a450488178229b6499551890f991c99b1042d17baeaa3aad33890a1077ac14cc"
+metafile = true
+
+[[files]]
 file = "mods/croptopia-fabric.toml"
 hash = "c3caba43412cbefca07a2d30beb03b33165648d77f78b0a7d5e2ceff0aa2333b"
 metafile = true
