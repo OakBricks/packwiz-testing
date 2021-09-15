@@ -1,14 +1,14 @@
 name = "Tom's Simple Storage Mod (Fabric)"
-filename = "tomsstorage-1.1.15.jar"
+filename = "tomsstorage-1.1.16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3455/564/tomsstorage-1.1.15.jar"
+url = "https://edge.forgecdn.net/files/3460/325/tomsstorage-1.1.16.jar"
 hash-format = "murmur2"
-hash = "2533238110"
+hash = "4272496200"
 
 [update]
 [update.curseforge]
-file-id = 3455564
+file-id = 3460325
 project-id = 396826
 release-channel = "beta"
